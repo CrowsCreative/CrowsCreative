@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and programming. 
 - 🌱 I’m currently learning web application development
 - 📫 How to reach me? 
-We are in fact a discord community for learning IT sience and dedicated more in programming and development
+We are in fact a discord community for learning IT science and dedicated more in programming and development
 You can join us, and start disscuss with us and change information. It's time to teach us and learn from us 👾
 
 <!---
